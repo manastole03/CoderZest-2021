@@ -1,3 +1,9 @@
+
+class Solution:
+    def minTime(self, root,target):
+        # code here
+
+
 #Driver code for the Buring Problem 
 
 from collections import deque
